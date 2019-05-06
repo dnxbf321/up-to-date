@@ -1,0 +1,16 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ../bin/index.js",
+    "uptodate": "up-to-date"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "react": "^15.6.2",
+    "react-router": "^4.0.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "up-to-date",
+  "version": "1.0.0",
+  "description": "make dependencies up to date",
+  "main": "bin/index.js",
+  "bin": {
+    "up-to-date": "bin/index.js"
+  },
+  "scripts": {
+    "test": "node bin/index.js"
+  },
+  "homepage": "https://github.com/dnxbf321/up-to-date#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://dnxbf321@github.com/dnxbf321/up-to-date.git"
+  },
+  "author": "dnxbf321@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "npm-check-updates": "^3.1.9",
+    "rc-config-loader": "^2.0.2"
+  }
+}
