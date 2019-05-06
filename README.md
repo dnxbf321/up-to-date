@@ -6,7 +6,7 @@
 
 首先，添加 `up-to-date` 到项目依赖
 ```bash
-npm install up-to-date --save-dev
+npm install @dnxbf321/up-to-date --save-dev
 ```
 
 然后，在 `package.json` 同级的位置新建名为 `.up-to-date.config.js` 或者 `.up-to-date.config.json` 的文件。配置项参考 [npm-check-updates](https://github.com/tjunnone/npm-check-updates)

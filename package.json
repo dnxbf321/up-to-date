@@ -1,5 +1,5 @@
 {
-  "name": "up-to-date",
+  "name": "@dnxbf321/up-to-date",
   "version": "1.0.0",
   "description": "make dependencies up to date",
   "main": "bin/index.js",
